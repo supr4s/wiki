@@ -1,0 +1,2 @@
+# wiki
+Some tips
