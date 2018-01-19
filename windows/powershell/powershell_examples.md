@@ -15,7 +15,7 @@ Importation du module Active Directory
 import-module ActiveDirectory
 ```
 
-Éditer le chemin du profil (Profil Path) de l'utilisateur mdupont avec un chemin définis
+Éditer le chemin du profil (Profil Path) de l'utilisateur **mdupont** avec un chemin définis
 
 ```
 Set-ADUser mdupont -ProfilePath '\\SRV-DC1\Profils$\Professeurs\mdupont\Profile'
