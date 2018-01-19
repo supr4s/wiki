@@ -1,1 +1,2 @@
-Hello
+# wiki
+Some tips
