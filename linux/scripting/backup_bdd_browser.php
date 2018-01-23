@@ -1,5 +1,5 @@
 <?php
-
+#stage 2016
 #definition des differentes variables de la BDD
 $DBUSER='MonUser';
 $DBPASSWD='MonMotDePasse';
