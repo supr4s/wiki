@@ -1,7 +1,6 @@
 ### PuTTY configuration
 
-**Connection** => **Data** => on modifie la valeur xterm par **xterm-color**
-Sauvegarde des paramètres de la session.
+**Connection** => **Data** => replace value xterm by **xterm-color** and don't forget save session parameters
 
 ### /etc/bash.bashrc
 
