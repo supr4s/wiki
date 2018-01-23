@@ -45,7 +45,7 @@ Petit script : on demande à l'utilisateur de rentrer le nom du groupe AD voulus
 ```
 $groupe = Read-Host "Merci d'entrer le nom du groupe voulus : "
 $sessionname = Get-ADGroupMember -identity $groupe -Recursive | Get-ADUser -property DisplayName | Select SamAccountName | sort -Property SamAccountName
-$sessionname | out-file "C:\Powershell_Thomas\${groupe}.txt"
+$sessionname | out-file "C:\Powershell_Perso\${groupe}.txt"
 ```
 
 ## Commandes en vrac
