@@ -1,2 +1,2 @@
 # wiki
-Some tips
+Some tips imports from my wiki
