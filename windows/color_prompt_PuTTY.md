@@ -5,7 +5,7 @@ Sauvegarde des paramètres de la session.
 
 ### /etc/bash.bashrc
 
-``
+```
 case "$TERM" in
  xterm-color) color_prompt=yes;;
 esac
@@ -15,5 +15,5 @@ if [ "$color_prompt" = yes ]; then
 else
  PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w\$ '
 fi
-``
+```
 
