@@ -1,9 +1,9 @@
-### Introduction
+## Introduction
 L'installation du miroir BlackArch sous une distribution ArchLinux (ici Manjaro) va nous permettre d'installer tout les outils disponibles sous BlackArch (qui est un OS de pentesters/sécurité rappellons-le) sous une distribution de type ArchLinux de notre choix et ainsi avoir tout les paquets sur notre distri !
 
 **OS utilisé :** Manjaro 16.06
 
-### Installation
+## Installation
 
 Ajout du dépôt BlackArch dans /etc/pacman.conf
 
