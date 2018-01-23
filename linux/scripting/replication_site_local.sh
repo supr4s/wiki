@@ -1,5 +1,5 @@
 #!/bin/bash
-#INFO : stage_2016
+#INFO : objet_stage_2016
 #définition des parametres pour la connexion au FTP
 SOURCE='/'
 echo "Indiquez le chemin du répertoire de destination (ex: /var/www/html/)"
