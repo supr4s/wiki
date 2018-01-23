@@ -16,3 +16,4 @@ else
 fi
 ```
 
+It's better with color ! :)
