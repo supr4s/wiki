@@ -3,10 +3,7 @@
 sudo apt-get update && sudo apt-get install git zsh -y;
 
 #Récupération de oh-my-zsh
-sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)";
-
-#Je change le thème par défaut par agnoster (powerline shell)
-sed -i 's/robbyrussel/agnoster/g' ~/.zshrc && clear && source ~/.zshrc;
+sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)" && sed -i 's/robbyrussel/agnoster/g' ~/.zshrc && clear && source ~/.zshrc;
 
 #Définition de ZSH comme shell par défaut
 chsh;
