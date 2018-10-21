@@ -1,14 +1,14 @@
 #Install ZSH
-sudo apt-get update && sudo apt-get install git zsh -y;
+sudo apt-get update && sudo apt-get install git zsh -y
 
 #Récupération de oh-my-zsh
 sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 
 #Je change manuellement le thème avec celui de agnoster (powerline shell)
-sed -i 's/robbyrussel/agnoster/g' ~/.zshrc && clear && source ~/.zshrc;
+sed -i 's/robbyrussel/agnoster/g' ~/.zshrc && clear && source ~/.zshrc
 
-#Définition de ZSH comme shell par défaut
-chsh;
+#Définition de ZSH comme shell par défaut pour l'utilisateur courant
+chsh -s /usr/bin/zsh $USER
 
 ######### TIPS ########
 # https://opensource.com/article/18/9/tips-productivity-zsh
