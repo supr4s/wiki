@@ -1,0 +1,15 @@
+#Check disk in CLI
+$ sudo apt-get install smartmontools
+
+#To check the status of the sectors
+#Short check
+$ sudo smartctl -t short /dev/sdX
+#Long check
+$ sudo smartctl -t long  /dev/sdX
+
+#To check result of previously command
+$ sudo smartctl -l selftest /dev/sdX
+
+#Check disk with GUI
+$ sudo apt-get install gsmartcontrol
+$ gsmartcontrol
