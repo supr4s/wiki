@@ -1,0 +1,2 @@
+#Deep scanning : TCP SYN scan, all ports from hosts list and XML generation
+$ sudo nmap -sS -T4 -A -sC -oA MY_RAPPORT_SCAN1 --stylesheet https://raw.githubusercontent.com/honze-net/nmap-bootstrap-xsl/master/nmap-bootstrap.xsl -i /home/sysadmin/Desktop/fqdn_scan.txt
