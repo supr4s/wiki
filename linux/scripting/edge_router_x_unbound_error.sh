@@ -1,7 +1,7 @@
 #!/bin/bash
 #Put the script in /config/scripts/post-config.d with execution rights
 #Shutdown unbound service
-service unbound start
+service unbound stop
 #Delete root.key
 cd /var/lib/unbound && rm root.key
 #Retrieving the file
