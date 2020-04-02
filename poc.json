@@ -2,8 +2,8 @@
   "gaCode": "UA-71465523-7",
   "locale": "wotif",
   "email": {
-    "sender": "TEST@dnsw.wotif.com",
-    "recipient": "TEST@expedia.com",
+    "sender": "HACKER@dnsw.wotif.com",
+    "recipient": "HACKER@expedia.com",
     "template": "email/template.html",
     "itemTemplate": "email/item-template.html",
     "itemNoLinkTemplate": "email/item-no-link-template.html",
@@ -60,15 +60,15 @@
     "translations": {
       "cannotReadText": "If you cannot read this email, please <span>click here.</span>",
       "headerText": "TEST MODIFICATION D'EN TETE",
-      "linkText": "See nearby hotels",
-      "ctaTitle": "View your list online",
-      "ctaText": "To browse more photographs and find out more information on your adventure and Wotif hotels visit your <span style='white-space: nowrap;'>page online.</span>",
-      "ctaButton": "View list online"
+      "linkText": "TEXTE",
+      "ctaTitle": "TEXTE2",
+      "ctaText": "TEXTE3",
+      "ctaButton": "TEXTE4"
     }
   },
   "translations": {
-    "bookingBtn": "Book Your Trip",
-    "bookingHeader": "Search Flight<span>&nbsp;</span>+ Hotel Packages",
+    "bookingBtn": "TEXTE5",
+    "bookingHeader": "TEXTE6",
     "bookingFrom": "From",
     "bookingTo": "To",
     "bookingDepart": "Depart",
