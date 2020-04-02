@@ -2,7 +2,7 @@
   "gaCode": "UA-71465523-7",
   "locale": "wotif",
   "email": {
-    "sender": "HACKER@dnsw.wotif.com",
+    "sender": "HACKER@hacker.net",
     "recipient": "HACKER@expedia.com",
     "template": "email/template.html",
     "itemTemplate": "email/item-template.html",
@@ -63,7 +63,7 @@
       "linkText": "TEXTE",
       "ctaTitle": "TEXTE2",
       "ctaText": "TEXTE3",
-      "ctaButton": "TEXTE4"
+      "ctaButton": "<a href='http://www.google.com' target='_blank'>Site malveillant</a>"
     }
   },
   "translations": {
