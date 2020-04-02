@@ -59,11 +59,11 @@
     },
     "translations": {
       "cannotReadText": "If you cannot read this email, please <span>click here.</span>",
-      "headerText": "TEST MODIFICATION D'EN TETE",
-      "linkText": "TEXTE",
-      "ctaTitle": "TEXTE2",
-      "ctaText": "TEXTE3",
-      "ctaButton": "<a href='http://www.google.com' target='_blank'>Site malveillant</a>"
+      "headerText": "<font size="3" color="green">POC : e-mail modification and SPAM</font>",
+      "linkText": "Blabla 1",
+      "ctaTitle": "Blabla 2",
+      "ctaText": "<font size="3" color="red">Click on the link below if you want to make money $$$</font>",
+      "ctaButton": "<a href='http://www.google.com' target='_blank'>Malicious site</a>"
     }
   },
   "translations": {
