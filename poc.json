@@ -2,15 +2,15 @@
   "gaCode": "UA-71465523-7",
   "locale": "wotif",
   "email": {
-    "sender": "donotreply@dnsw.wotif.com",
-    "recipient": "mediapartnershipsentries@expedia.com",
+    "sender": "TEST@dnsw.wotif.com",
+    "recipient": "TEST@expedia.com",
     "template": "email/template.html",
     "itemTemplate": "email/item-template.html",
     "itemNoLinkTemplate": "email/item-no-link-template.html",
     "ctaTemplate": "email/cta-template.html",
     "hero": {
       "src": "/mailer/email/img/banner-image.jpg",
-      "alt": "It's time for a Sydney & NSW adventure"
+      "alt": "TEST MAIL INJECTION"
     },
     "header": {
       "leftLogo": {
