@@ -130,3 +130,5 @@ bindkey '^[[4~' end-of-line
 # Ctrl-Gauche/Droite
 bindkey '^[[C' forward-word
 bindkey '^[[D' backward-word
+#Permet d'éviter les lenteurs de navigation/completion dans un répertoire git
+git config --global oh-my-zsh.hide-status 1
