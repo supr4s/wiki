@@ -14,9 +14,4 @@ chsh -s /usr/bin/zsh $USER
 ######### TIPS ########
 # https://opensource.com/article/18/9/tips-productivity-zsh
 # https://doc.ubuntu-fr.org/zsh
-## EXEMPLES
-# 1°) /var/my_folder au lieu de cd /var/my_folder
-# 2°) dirs -v pour afficher les répertoires dans lesquels on a navigué. On tape ensuite la chiffre correspondant pour y aller
-# 3°) Appuer deux fois (ou trois suivant la taille) sur TAB pour ensuite parcourir les choix proposés
-# 4°) Créer un alias : $ alias la='ls -a'
-# 5°) Plusieurs options possibles en remplacement de la commande find : https://linuxgazette.net/184/silva.html
+# https://linuxgazette.net/184/silva.html
